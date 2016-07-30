@@ -24,6 +24,5 @@ def main():
     print "The lowest price for the stock %s is %f on %s"%(symbol,low,date_of_low)
     
 
-
 if __name__ == '__main__':
     main()
